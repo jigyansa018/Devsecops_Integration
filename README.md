@@ -1,7 +1,4 @@
-# DevSecOps CI/CD Workflow (Task 2)
+🚀 DevSecOps_Integration  
 
-This project demonstrates:
-- Terraform security checks with `tfsec`
-- Docker vulnerability scanning with `trivy`
-- Encrypted secret management via Sealed Secrets
-- Kubernetes deployment through GitHub Actions
+A ❗ DevSecOps CI/CD pipeline for a containerized 💬 chat app using 🔧 GitHub Actions, 🔍 tfsec, 🐳 Trivy, and 🔐 Sealed Secrets.  
+Automates ✅ security scans, 🔐 secret management, and 🧠 Kubernetes deployment with 🐳 Docker and 🌐 NGINX.
